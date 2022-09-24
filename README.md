@@ -8,7 +8,7 @@ React.js18
 
 2022.04 - 2022.06
 
-![QRCodeImg.jpg image size](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg.jpg){:width="50" height="50"}
+![QRCodeImg.jpg qrimg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg.jpg)
 
 - **保存、修正、削除、整列 機能具現**
 - レンダリングの最適化にReact.memoを使った。
@@ -41,7 +41,7 @@ Vanilajs
 
 2021.06 - 2021.06
 
-![QRCodeImg (2).jpg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg_(2).jpg)
+![QRCodeImg (2).jpg qrimg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg_(2).jpg)
 
 - Local Storageに保存·変更·読み込み使用
 - 天気を具現するため Free APIサビスーを使った。
@@ -70,7 +70,7 @@ Vanilajs
 
 2022.08 - 2022.08
 
-![QRCodeImg.jpg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg%201.jpg)
+![QRCodeImg.jpg qrimg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg%201.jpg)
 
 - SocketIOを使って同時接続具現
 - JS,Node.JS,WebSockets,WebRTCを使った。
@@ -99,7 +99,7 @@ HTML/CSS
 
 2021.06 - 2021.06
 
-![QRCodeImg (3).jpg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg_(3).jpg)
+![QRCodeImg (3).jpg qrimg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg_(3).jpg)
 
 - BEMによるフロントエンドの設計の理解
 - いつでもデザイン変化に対応できる
@@ -128,7 +128,7 @@ HTML/SCSS/JS/Jquery
 
 2022.08 - 2022.08
 
-![QRCodeImg.jpg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg%202.jpg)
+![QRCodeImg.jpg qrimg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg%202.jpg)
 
 - **多様なCSSに慣れるために作った見た目サイト**
 - **R**esponsive web design
