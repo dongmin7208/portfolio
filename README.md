@@ -6,7 +6,7 @@
 React.js18
 
 2022.04 - 2022.06
-
+https://www.notion.so/Dongmin-Park-d988cef7c40c4f7ba321463860c8b79b#d7d7a8f4cffa4de581f6515acaa9f07c
 ![QRCodeImg.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d77d6e6c-a36e-4b8e-be94-20f25fb0ea25/QRCodeImg.jpg)
 
 - **保存、修正、削除、整列 機能具現**
