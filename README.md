@@ -8,7 +8,7 @@ React.js18
 
 2022.04 - 2022.06
 
-![QRCodeImg.jpg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg.jpg)
+![QRCodeImg.jpg](Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg.jpg){width=100}
 
 - **保存、修正、削除、整列 機能具現**
 - レンダリングの最適化にReact.memoを使った。
