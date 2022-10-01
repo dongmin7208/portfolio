@@ -33,7 +33,7 @@ React.js18
 </div>
 <div style="display:flex; margin-top:20px;">
 <img src="img/4.png" width="200" height="300">
-
+ 
 <img src="img/1.png" width="200" height="300" style="margin-left:10px">
 </div>
 
@@ -43,7 +43,7 @@ Vanilajs
 
 2021.06 - 2021.06
 
-![QRCodeImg (2).jpg qrimg](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg_(2).jpg>)
+# <img src="img/QRCodemomentum.jpg" width="100" height="100">
 
 -   Local Storage に保存·変更·読み込み使用
 -   天気を具現するため Free API サビスーを使った。
@@ -63,9 +63,9 @@ Vanilajs
 
 選択理由: 位置情報を受けて天気 API の使用を学び、TODOLIST のロジックを理解するために選択しました。
 
-[GitHub - dongmin7208/jsBeginners](https://github.com/dongmin7208/jsBeginners)
+Link - [GitHub - dongmin7208/jsBeginners](https://github.com/dongmin7208/jsBeginners)
 
-![momentum1.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/momentum1.png>)
+<img src="img/momentum1.png" width="400" height="250">
 
 ---
 
@@ -73,14 +73,15 @@ Vanilajs
 
 2022.08 - 2022.08
 
-![QRCodeImg.jpg qrimg](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg%201.jpg>)
+# <img src="img/QRCodeZoom.jpg" width="100" height="100">
 
+<img src="img/zoom.png" width="400" height="250">
 -   SocketIO を使って同時接続具現
--   JS,Node.JS,WebSockets,WebRTC を使った。
--   VIEW 部分は PUG を使って見ました。
--   基本的な JS を使いました。
--   Socket の流れを理解するのが難しかったので、
--   繰り返しないといけないと言う感じました。
+-   JS,Node.JS,WebSockets,WebRTC を使った。<br>
+-   VIEW 部分は PUG を使って見ました。<br>
+-   基本的な JS を使いました。<br>
+-   Socket の流れを理解するのが難しかったので、<br>
+-   繰り返しないといけないと言う感じました。<br>
 
 > SocketIO を使って同じルームで会話ができます。
 > 二人が接続して、マイク ON、OFF 、カメラ ON,OFF ができます。
@@ -93,15 +94,13 @@ Vanilajs
 
 ---
 
-![스크린샷 2022-09-13 23.25.05.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-13_23.25.05.png>)
-
 ### **LittleRooms**
 
 HTML/CSS
 
 2021.06 - 2021.06
 
-![QRCodeImg (3).jpg qrimg](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg_(3).jpg>)
+# <img src="img/QRCodelittlerooms.jpg" width="100" height="100">
 
 -   BEM によるフロントエンドの設計の理解
 -   いつでもデザイン変化に対応できる
