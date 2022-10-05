@@ -166,14 +166,13 @@ https://user-images.githubusercontent.com/85716180/194101357-2cfd512b-bcf4-4a70-
 <img src="img/netflix3.png" width="349" height="350" style="margin-left:5px">
 </div>
 
-<div style="display:flex;">
+<div style="display:flex; justify-content:center;">
 <img src="img/netflix4.png" width="349" height="350">
 
-<img src="img/netflix2.png" width="349" height="350" style="margin-left:5px">
 </div>
 <div style=" margin-top:5px;">
-<img src="img/homepage.png" width="400" height="300">
-<img src="img/grid.png" width="400" height="300">
+<img src="img/homepage.png" width="300" height="300">
+<img src="img/grid.png" width="300" height="300">
 </div>
 
 ---
