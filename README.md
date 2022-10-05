@@ -43,7 +43,7 @@ Vanilajs
 
 2021.06 - 2021.06
 
-<img src="img/QRCodeMomentum.jpg" width="100" height="100" style="margin-left:20px">
+<img src="img/QRCodeMomentum.jpg" width="100" height="100" style="margin-left:50px">
 
 -   Local Storage に保存·変更·読み込み使用
 -   天気を具現するため Free API サビスーを使った。
@@ -75,9 +75,7 @@ Link - [GitHub - dongmin7208/jsBeginners](https://github.com/dongmin7208/jsBegin
 
 # <img src="img/QRCodeZoom.jpg" width="100" height="100">
 
-
 https://user-images.githubusercontent.com/85716180/189566537-852cd07a-908d-4483-b1e0-febcac900740.mov
-
 
 <img src="img/zoom.png" width="600" height="400">
 
