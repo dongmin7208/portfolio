@@ -43,7 +43,7 @@ Vanilajs
 
 2021.06 - 2021.06
 
-<img src="img/QRCodeMomentum.jpg" width="100" height="100" style="margin-left:50px">
+   <img src="img/QRCodeMomentum.jpg" width="100" height="100" style="margin-left:50px">
 
 -   Local Storage に保存·変更·読み込み使用
 -   天気を具現するため Free API サビスーを使った。
@@ -103,7 +103,7 @@ HTML/CSS
 
 2021.06 - 2021.06
 
-# <img src="img/QRCodelittlerooms.jpg" width="100" height="100">
+<img src="img/QRCodeLittlerooms.jpg" width="100" height="100">
 
 -   BEM によるフロントエンドの設計の理解
 -   いつでもデザイン変化に対応できる
@@ -117,7 +117,9 @@ HTML/CSS
 
 選択理由:実在する Littlerooms サイトのコンテンツのサイズが決まっていて得意で選択しました。
 
-Link [GitHub - dongmin7208/littlerooms: コードレビューを通じて協業過程及び BEM 基礎設計構造演習の目的であるプロジェクト。](https://github.com/dongmin7208/littlerooms#screen)
+Link [GitHub - dongmin7208/littlerooms](https://github.com/dongmin7208/littlerooms#screen)
+
+<img src="img/littlerooms.gif" width="400" height="600">
 
 <div style="display:flex; margin-top:20px;">
 <img src="img/littleRooms1.png" width="195" height="400">
