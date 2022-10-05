@@ -17,24 +17,24 @@ React.js18
 -   useNavigate, useParams - react-router-dom
 -   useContext,useEffect,useState
 
-> 当日の鑑定を選んで日記を書きます。
-> 登録した日記の LIST を表示することができます。
-> 5 つの感情の種類整列機能
-> この該当日記を EDIT、削除ができます。
+> 当日の鑑定を選んで日記を書きます。<br>
+> 登録した日記の LIST を表示することができます。<br>
+> 5 つの感情の種類整列機能<br>
+> この該当日記を EDIT、削除ができます。<br>
 
 選択理由:基本的かつ重要な機能が入っているからです。
 
-[GitHub - dongmin7208/React-diary: mini diary App]
+Link - [GitHub - mini diary App](https://github.com/dongmin7208/React-diary)
 
 <div style="display:flex;">
-<img src="img/3.png" width="200" height="300">
+<img src="img/3.png" width="300" height="400">
 
-<img src="img/5.png" width="200" height="300" style="margin-left:10px">
+<img src="img/5.png" width="300" height="400" style="margin-left:20px">
 </div>
-<div style="display:flex; margin-top:20px;">
-<img src="img/4.png" width="200" height="300">
+<div style="display:flex; margin-top:10px;">
+<img src="img/4.png" width="300" height="400">
  
-<img src="img/1.png" width="200" height="300" style="margin-left:10px">
+<img src="img/1.png" width="300" height="400" style="margin-left:20px">
 </div>
 
 ### **Momentum**
@@ -90,7 +90,7 @@ Link - [GitHub - dongmin7208/jsBeginners](https://github.com/dongmin7208/jsBegin
 
 選択理由: 実務で実力が足りなくて扱えなかった SocketIO を勉強した。
 
-[GitHub - dongmin7208/zoom](https://github.com/dongmin7208/zoom#nodejs-socketio-webrtc-javascript)
+Link [GitHub - dongmin7208/zoom](https://github.com/dongmin7208/zoom#nodejs-socketio-webrtc-javascript)
 
 ---
 
@@ -114,11 +114,14 @@ HTML/CSS
 
 選択理由:実在する Littlerooms サイトのコンテンツのサイズが決まっていて得意で選択しました。
 
-[GitHub - dongmin7208/littlerooms: コードレビューを通じて協業過程及び BEM 基礎設計構造演習の目的であるプロジェクト。](https://github.com/dongmin7208/littlerooms#screen)
+Link [GitHub - dongmin7208/littlerooms: コードレビューを通じて協業過程及び BEM 基礎設計構造演習の目的であるプロジェクト。](https://github.com/dongmin7208/littlerooms#screen)
 
-![11.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/11.png>)
-
-![33.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/33.png>)
+<div style="display:flex; margin-top:20px;">
+<img src="img/littleRooms1.png" width="195" height="400">
+<div style="margin-left:10px;">
+<img src="img/littleRooms2.png" width="195" height="400">
+</div>
+</div>
 
 ---
 
@@ -142,29 +145,28 @@ HTML/SCSS/JS/Jquery
 
 選択理由:多様な CSS を学ぶため選びました。
 
-[GitHub - dongmin7208/WebPublilshing](https://github.com/dongmin7208/WebPublilshing#web-publilshing-)
+Link [GitHub - dongmin7208/WebPublilshing](https://github.com/dongmin7208/WebPublilshing#web-publilshing-)
 
-![스크린샷 2022-09-14 21.53.08.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.53.08.png>)
+<div style="display:flex;">
+<img src="img/netflix1.png" width="200" height="300">
 
-![스크린샷 2022-09-14 21.53.35.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.53.35.png>)
+<img src="img/netflix5.png" width="200" height="300" style="margin-left:5px">
+</div>
+<div style="display:flex; margin-top:5px;">
+<img src="img/netflix2.png" width="200" height="300">
+ 
+<img src="img/netflix3.png" width="200" height="300" style="margin-left:5px">
+</div>
 
-![스크린샷 2022-09-14 21.53.58.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.53.58.png>)
+<div style="display:flex;">
+<img src="img/netflix4.png" width="200" height="300">
 
-![스크린샷 2022-09-14 21.54.57.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.54.57.png>)
-
-![스크린샷 2022-09-14 21.53.18.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.53.18.png>)
-
-![스크린샷 2022-09-14 21.53.46.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.53.46.png>)
-
-![스크린샷 2022-09-14 21.54.46.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.54.46.png>)
-
-![스크린샷 2022-09-14 21.52.20.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.52.20.png>)
-
-![스크린샷 2022-09-14 21.51.49.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.51.49.png>)
-
-![스크린샷 2022-09-14 21.52.36.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.52.36.png>)
-
-![스크린샷 2022-09-14 21.54.38.png](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2022-09-14_21.54.38.png>)
+<img src="img/netflix2.png" width="200" height="300" style="margin-left:5px">
+</div>
+<div style=" margin-top:5px;">
+<img src="img/homepage.png" width="400" height="300">
+<img src="img/grid.png" width="400" height="300">
+</div>
 
 ---
 
@@ -183,7 +185,7 @@ React(Next.js)
 
 選択理由:ZOOM を通じて勉強をしてみたんですけど足りなかったと思って選びました。
 
-[GitHub - dongmin7208/wetube](https://github.com/dongmin7208/wetube)
+Link [GitHub - dongmin7208/wetube](https://github.com/dongmin7208/wetube)
 
 ### Twitter(Next.js)
 
@@ -212,6 +214,6 @@ React(Next.js)
 
 選択理由:SWR と typeScript を触ったことなかったので選びました。
 
-[GitHub - dongmin7208/slack](https://github.com/dongmin7208/slack)
+Link [GitHub - dongmin7208/slack](https://github.com/dongmin7208/slack)
 
 Github: [https://github.com/dongmin7208/react-nodebird](https://github.com/dongmin7208/react-nodebird)
