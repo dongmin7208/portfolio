@@ -119,13 +119,10 @@ HTML/CSS
 
 Link [GitHub - dongmin7208/littlerooms](https://github.com/dongmin7208/littlerooms#screen)
 
-https://user-images.githubusercontent.com/85716180/194097313-0228a79f-6338-42e6-9a37-f42bcc2ae97a.mov
-
-
 <div style="display:flex; margin-top:20px;">
 <img src="img/littleRooms1.png" width="195" height="400">
 <div style="margin-left:10px;">
-<img src="img/littleRooms2.png" width="195" height="400">
+<img src="img/littlerooms2.png" width="195" height="400">
 </div>
 </div>
 
@@ -137,7 +134,7 @@ HTML/SCSS/JS/Jquery
 
 2022.08 - 2022.08
 
-![QRCodeImg.jpg qrimg](<Dongmin%20Park%20(%E3%83%8F%E3%82%9A%E3%82%AF%E3%83%BB%E3%83%88%E3%82%99%E3%83%B3%E3%83%9F%E3%83%B3)%20d988cef7c40c4f7ba321463860c8b79b/QRCodeImg%202.jpg>)
+<img src="img/QRCodeWebpublilshing.jpg" width="100" height="100">
 
 -   **多様な CSS に慣れるために作った見た目サイト**
 -   **R**esponsive web design
@@ -154,20 +151,20 @@ HTML/SCSS/JS/Jquery
 Link [GitHub - dongmin7208/WebPublilshing](https://github.com/dongmin7208/WebPublilshing#web-publilshing-)
 
 <div style="display:flex;">
-<img src="img/netflix1.png" width="200" height="300">
+<img src="img/netflix1.png" width="300" height="400">
 
-<img src="img/netflix5.png" width="200" height="300" style="margin-left:5px">
+<img src="img/netflix5.png" width="300" height="400" style="margin-left:5px">
 </div>
 <div style="display:flex; margin-top:5px;">
-<img src="img/netflix2.png" width="200" height="300">
+<img src="img/netflix2.png" width="300" height="400">
  
-<img src="img/netflix3.png" width="200" height="300" style="margin-left:5px">
+<img src="img/netflix3.png" width="300" height="400" style="margin-left:5px">
 </div>
 
 <div style="display:flex;">
-<img src="img/netflix4.png" width="200" height="300">
+<img src="img/netflix4.png" width="300" height="400">
 
-<img src="img/netflix2.png" width="200" height="300" style="margin-left:5px">
+<img src="img/netflix2.png" width="300" height="400" style="margin-left:5px">
 </div>
 <div style=" margin-top:5px;">
 <img src="img/homepage.png" width="400" height="300">
