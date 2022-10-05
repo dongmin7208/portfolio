@@ -119,8 +119,7 @@ HTML/CSS
 
 Link [GitHub - dongmin7208/littlerooms](https://github.com/dongmin7208/littlerooms#screen)
 
-
-<img src="img/littlerooms.gif" width="400" height="600">
+https://user-images.githubusercontent.com/85716180/194097313-0228a79f-6338-42e6-9a37-f42bcc2ae97a.mov
 
 
 <div style="display:flex; margin-top:20px;">
