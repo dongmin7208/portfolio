@@ -171,8 +171,8 @@ https://user-images.githubusercontent.com/85716180/194101357-2cfd512b-bcf4-4a70-
 
 </div>
 <div style=" margin-top:5px;">
-<img src="img/homepage.png" width="300" height="300">
-<img src="img/grid.png" width="300" height="300">
+<img src="img/homepage.png" width="600" height="600">
+<img src="img/grid.png" width="600" height="500">
 </div>
 
 ---
