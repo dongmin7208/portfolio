@@ -43,7 +43,7 @@ Vanilajs
 
 2021.06 - 2021.06
 
-<img src="img/QRCodeMomentum.jpg" width="100" height="100">
+<img src="img/QRCodeMomentum.jpg" width="100" height="100" style="margin-left:20px">
 
 -   Local Storage に保存·変更·読み込み使用
 -   天気を具現するため Free API サビスーを使った。
