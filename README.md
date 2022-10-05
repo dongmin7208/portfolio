@@ -65,7 +65,7 @@ Vanilajs
 
 Link - [GitHub - dongmin7208/jsBeginners](https://github.com/dongmin7208/jsBeginners)
 
-<img src="img/momentum1.png" width="400" height="250">
+<img src="img/momentum.gif" width="400" height="250">
 
 ---
 
