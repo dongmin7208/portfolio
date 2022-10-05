@@ -122,10 +122,11 @@ Link [GitHub - dongmin7208/littlerooms](https://github.com/dongmin7208/littleroo
 https://user-images.githubusercontent.com/85716180/194101300-a80659fa-b07b-45be-ab12-af2e91e9ee65.mov
 
 <div style="display:flex;">
+
 <img src="img/littleRooms1.png" width="195" height="400">
-<div style="display:flex; margin-left:10px;">
-<img src="img/littlerooms2.png" width="195" height="400">
-</div>
+
+<img src="img/littlerooms2.png" width="195" height="400" style="margin-left:20px;">
+
 </div>
 
 ---
@@ -155,20 +156,20 @@ Link [GitHub - dongmin7208/WebPublilshing](https://github.com/dongmin7208/WebPub
 https://user-images.githubusercontent.com/85716180/194101357-2cfd512b-bcf4-4a70-9ddd-bdfc17f2e79b.mov
 
 <div style="display:flex;">
-<img src="img/netflix1.png" width="400" height="400">
+<img src="img/netflix1.png" width="349" height="350">
 
-<img src="img/netflix5.png" width="400" height="400" style="margin-left:5px">
+<img src="img/netflix5.png" width="349" height="350" style="margin-left:5px">
 </div>
 <div style="display:flex; margin-top:5px;">
-<img src="img/netflix2.png" width="400" height="400">
+<img src="img/netflix2.png" width="349" height="350">
  
-<img src="img/netflix3.png" width="400" height="400" style="margin-left:5px">
+<img src="img/netflix3.png" width="349" height="350" style="margin-left:5px">
 </div>
 
 <div style="display:flex;">
-<img src="img/netflix4.png" width="400" height="400">
+<img src="img/netflix4.png" width="349" height="350">
 
-<img src="img/netflix2.png" width="400" height="400" style="margin-left:5px">
+<img src="img/netflix2.png" width="349" height="350" style="margin-left:5px">
 </div>
 <div style=" margin-top:5px;">
 <img src="img/homepage.png" width="400" height="300">
