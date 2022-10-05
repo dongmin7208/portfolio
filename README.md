@@ -176,10 +176,10 @@ https://user-images.githubusercontent.com/85716180/194101357-2cfd512b-bcf4-4a70-
 </div>
 
 <div style="display:flex;">
-<video src="https://user-images.githubusercontent.com/85716180/194107769-24d0ca0b-0455-4c49-b799-50d7141db86d.mov" controls="controls" style="max-width: 350px;">
+<video src="https://user-images.githubusercontent.com/85716180/194107769-24d0ca0b-0455-4c49-b799-50d7141db86d.mov" controls="controls" style="width: 350px;">
 </video>
 
-<video src="https://user-images.githubusercontent.com/85716180/194107797-8c04222f-e73e-4f7f-bd36-45d818602c20.mov" controls="autoplay" style="max-width: 350px;">
+<video src="https://user-images.githubusercontent.com/85716180/194107797-8c04222f-e73e-4f7f-bd36-45d818602c20.mov" controls="autoplay" style="width: 350px;">
 </video>
 
 </div>
