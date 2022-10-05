@@ -75,9 +75,9 @@ Link - [GitHub - dongmin7208/jsBeginners](https://github.com/dongmin7208/jsBegin
 
 # <img src="img/QRCodeZoom.jpg" width="100" height="100">
 
-<img src="img/zoom.mp4" width="600" height="400">
-<img src="img/zoom.gif" width="600" height="400">
+https://user-images.githubusercontent.com/85716180/189566537-852cd07a-908d-4483-b1e0-febcac900740.mov
 <img src="img/zoom.png" width="600" height="400">
+
 -   SocketIO を使って同時接続具現
 -   JS,Node.JS,WebSockets,WebRTC を使った。<br>
 -   VIEW 部分は PUG を使って見ました。<br>
