@@ -27,14 +27,14 @@ React.js18
 Link - [GitHub - mini diary App](https://github.com/dongmin7208/React-diary)
 
 <div style="display:flex;">
-<img src="img/3.png" width="300" height="400">
+<img src="img/3.png" width="250" height="400">
 
-<img src="img/5.png" width="300" height="400" style="margin-left:20px">
+<img src="img/5.png" width="250" height="400" style="margin-left:20px">
 </div>
 <div style="display:flex; margin-top:10px;">
-<img src="img/4.png" width="300" height="400">
+<img src="img/4.png" width="250" height="400">
  
-<img src="img/1.png" width="300" height="400" style="margin-left:20px">
+<img src="img/1.png" width="250" height="400" style="margin-left:20px">
 </div>
 
 ### **Momentum**
@@ -156,14 +156,14 @@ Link [GitHub - dongmin7208/WebPublilshing](https://github.com/dongmin7208/WebPub
 https://user-images.githubusercontent.com/85716180/194101357-2cfd512b-bcf4-4a70-9ddd-bdfc17f2e79b.mov
 
 <div style="display:flex;">
-<img src="img/netflix1.png" width="349" height="350">
+<img src="img/netflix1.png" width="270" height="350">
 
-<img src="img/netflix5.png" width="349" height="350" style="margin-left:5px">
+<img src="img/netflix5.png" width="270" height="350" style="margin-left:5px">
 </div>
 <div style="display:flex; margin-top:5px;">
-<img src="img/netflix2.png" width="349" height="350">
+<img src="img/netflix2.png" width="270" height="350">
  
-<img src="img/netflix3.png" width="349" height="350" style="margin-left:5px">
+<img src="img/netflix3.png" width="270" height="350" style="margin-left:5px">
 </div>
 
 <div style="display:flex; justify-content:center;">
@@ -264,7 +264,6 @@ React(Next.js)
 2022.06 〜
 
 -   React + SWR + Socket.io + TypeScript + Emotion + Webpack + Babel +
--
 
 > 開発中。。
 
